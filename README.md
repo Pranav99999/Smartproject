@@ -1,0 +1,2 @@
+# Smartproject
+To learn devops
